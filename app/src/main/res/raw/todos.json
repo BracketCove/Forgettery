@@ -1,0 +1,19 @@
+{
+  "todoArrayList": [
+    {
+      "todoContent": "Buy Milk",
+      "todoCreationDate": "2016-Aug-05-14-21-19",
+      "todoReminderDate": "OCT 10/2015"
+    },
+    {
+      "todoContent": "Drink Milk",
+      "todoCreationDate": "2016-Dec-05-14-21-19",
+      "todoReminderDate": "DEC 10/2015"
+    },
+    {
+      "todoContent": "Get Money",
+      "todoCreationDate": "2016-Jan-05-14-21-19",
+      "todoReminderDate": "JAN 10/2015"
+    }
+  ]
+}
